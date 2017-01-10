@@ -1,5 +1,5 @@
 module.exports = {
-    entry: ['./src/index.jsx'],
+    entry: ['./public/src/index.jsx'],
     output: {
         path: __dirname,
         publicPath: '/',
